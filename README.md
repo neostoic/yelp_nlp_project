@@ -32,11 +32,11 @@ First iteration of sentiment used Alchemy's Sentiment API.
 
 ## Additional Observations and Future Work
 1. Need to extract out only food / menu based keywords
-* Getting a scattered bag of keywords
+  * Getting a scattered bag of keywords
 
 2. Iterations of Sentiment Analysis
-* Use TextBlob or NLTK
-* Use Google Prediction, Alchemy
+  * Use TextBlob or NLTK
+  * Use Google Prediction, Alchemy
 
 3. Create a function to automate the scraping of Yelp and expand to other restaurants in NYC and other cities in US
 
